@@ -1,5 +1,5 @@
 # Machine-learning-lab
-## These algorithms are coded in Masters program for Data Analytics in the University of Hildesheim
+## This repository includes different algorithms of Machine Learning
 * Lab_1 :Linear Regression
 * Lab_2 :Linear Regression via Normal Equations 
 * Lab_3 :Data preprocessing and Linear Regression with Gradient Descent  
