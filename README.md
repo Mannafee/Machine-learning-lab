@@ -11,3 +11,6 @@
 * Lab_10: Implement basic matrix factorization (MF) technique for recommender systems 
 * Lab_11: K Means clustering algorithm 
 
+
+# Please leave a star if you like my repo :)
+
